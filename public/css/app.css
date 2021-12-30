@@ -1,0 +1,54 @@
+.main_container {
+    box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    background: #212529;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.rightSec {
+    margin-top: 76px;
+}
+.newUser_con {
+    box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    background: #212529;
+    color: white;
+}
+.newUser {
+    background: #212529;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.cr_new_link {
+    margin-top: 20px;
+    box-shadow: -1px 5px 8px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 8px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 8px 0px rgba(0, 0, 0, 0.75);
+}
+.home_link {
+    margin-top: 20px;
+    box-shadow: -1px 5px 8px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 8px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 8px 0px rgba(0, 0, 0, 0.75);
+}
+.alert {
+    padding: 0;
+}
+.upUser {
+    background: #212529;
+    border-radius: 5px;
+    color: white;
+    /* text-align: center; */
+    padding: 5px 10px;
+}
